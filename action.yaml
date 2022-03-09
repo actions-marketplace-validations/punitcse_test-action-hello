@@ -1,0 +1,9 @@
+   name: 'test-hello'
+   author: 'punit.jain@simplybusiness.co.uk'
+   description: 'test description'
+   branding:
+     icon: code
+     color: red
+   runs:
+     using: 'docker'
+     image: 'Dockerfile'
