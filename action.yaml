@@ -1,4 +1,4 @@
-   name: 'test-hello-punit'
+   name: 'test-hello-docker'
    author: 'punit.jain@simplybusiness.co.uk'
    description: 'test description'
    branding:
