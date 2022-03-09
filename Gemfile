@@ -1,1 +1,1 @@
-gem 'octokit'
+gem 'rspec'
