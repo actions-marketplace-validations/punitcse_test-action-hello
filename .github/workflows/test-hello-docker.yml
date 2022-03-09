@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps: 
       - name: test-hello-docker
-        uses: punitcse/test-action-hello@v0.0.2
+        uses: punitcse/test-action-hello@v0.0.3
